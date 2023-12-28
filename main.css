@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    width: 500px;
+    border-collapse: collapse;
+}
+
+
+h1{
+    background-color: rgb(89, 7, 144);
+    display: inline-block;
+    border: 1px solid rgb(0, 0, 0);
+    color: white;
+}
+
+
+
+
+caption{
+    font-size: 1.3em;
+    font-weight: bolder;
+    padding: 8px;
+    background-color: rgba(38, 2, 109, 0.526);
+    border: solid 1px black;
+    color: white;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+
+.cabes{
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.536);
+}
+
+
+.destaque{
+    background-color: rgb(20, 20, 148);
+}
+
+.cnome{
+    background-color: rgba(153, 50, 204, 0.514);
+}
+
+.csexo{
+    background-color: rgba(153, 50, 204, 0.514);
+}
+
+.cidade{
+    background-color: rgba(153, 50, 204, 0.514);
+}
+
+.cprof{
+    background-color: rgba(153, 50, 204, 0.514);
+}
+
+footer{
+    background-color: rgb(73, 20, 80);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(249, 249, 249, 0.752);
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    border: 3px solid rgba(171, 161, 161, 0.349);
+}
